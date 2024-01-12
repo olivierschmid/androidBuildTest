@@ -1,0 +1,7 @@
+{
+  "name": "androidBuildTest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
